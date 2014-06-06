@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to='queryBuilder'>
+	<inherits name='com.extjs.gxt.ui.GXT' />
+	<entry-point class='com.example.querybuilder.client.QueryBuilder' />
+	<source path='client' />
+	<source path='shared' />
+	<source path='extgwt/tools/layout/constrained' />
+	<extend-property name="locale" values="en_US" />
+</module>
+

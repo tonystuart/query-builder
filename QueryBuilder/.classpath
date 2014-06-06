@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" output="test-classes" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/lucene-core-3.0.1.jar" sourcepath="/home/tony/Usr/Downloads/Linux/Apache/lucene-3.0.1-src.zip"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/gxt-2.2.4-gwt22.jar"/>
+	<classpathentry kind="con" path="com.google.gwt.eclipse.core.GWT_CONTAINER"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/derby-10.8.2.2.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/derbyclient-10.8.2.2.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/derbynet-10.8.2.2.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/derbytools-10.8.2.2.jar"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>

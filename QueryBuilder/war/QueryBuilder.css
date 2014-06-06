@@ -1,0 +1,39 @@
+.x-panel-body {
+	background-color: #f0f0ff;
+}
+
+.dp-filter-criteria textarea {
+	border-left: none;
+	border-right: none;
+	border-bottom: none;
+}
+
+.dm-form-font {
+	font: 11px tahoma, arial, helvetica, sans-serif;
+}
+
+.row-details {
+	font: 11px tahoma, arial, helvetica, sans-serif;
+	/* border: 1px solid black; */
+	/* border-collapse: collapse; */
+	width: 100%;
+}
+
+.row-details td {
+	padding: 2px;
+	/* border: 1px solid black; */
+}
+
+.row-details-name {
+	text-align: right;
+	width: 100px;
+	font-weight: bold;
+	vertical-align: top;
+}
+
+.row-details-value {
+}
+
+.dm-cancel-padding {
+	padding: 0px;
+}
